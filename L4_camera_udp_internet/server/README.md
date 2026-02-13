@@ -1,5 +1,5 @@
 ### 使用方法
-目录下的三个可执行文件，按照后缀区分操作系统
+目录下的三个可执行文件，按照后缀区分操作系统，`main.go`是源码，仅供参考
 ```shell
 esp32-cam-stream-convertor-windows.exe --help
   -http int
